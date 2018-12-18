@@ -1,6 +1,6 @@
 # tplink-api-php
 
-PHP-based toolset to programmatically toggle TP-Link Smart Plugs on/off.
+PHP-based toolset to programmatically control TP-Link Smart Plugs.
 
 ## Supported Devices
 
