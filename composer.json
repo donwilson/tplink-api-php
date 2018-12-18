@@ -1,0 +1,14 @@
+{
+    "name": "donwilson/tplink-api-php",
+    "description": "PHP script to send commands to a TP-Link HS100 Smart Plug",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "authors": [
+        {
+            "name": "Don Wilson",
+            "email": "donwilson@gmail.com"
+        }
+    ]
+}

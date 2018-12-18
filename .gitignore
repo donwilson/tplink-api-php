@@ -1,0 +1,5 @@
+tmp/
+vendor/
+composer.phar
+composer.lock
+config.sensitive_passwords.php
